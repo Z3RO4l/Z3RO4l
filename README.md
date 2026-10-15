@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Luiz Henrique Seabra da Silva 👋
 
-<!--
-**Z3RO4l/Z3RO4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student** | Passionate about building things with code  
+📍 Manaus, Brazil | 🔍 Open to internship opportunities
 
-Here are some ideas to get you started:
+--------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About Me
+
+I'm a Computer Science student currently focused on backend development, databases, and cloud technologies.  
+I learn by building — studying concepts and immediately applying them in personal projects.
+
+- 🔭 Currently working on personal projects involving Java, APIs, and databases
+- 🌱 Learning more about AWS, clean code, and software architecture
+- 💡 Interested in backend development, cloud computing, and cybersecurity
+- ⚡ Fun fact: I enjoy turning ideas into working code and improving them step by step
+
+---
+# Tech Stack
+
+**Languages** 
+`Java` `C++` `HTML` `JavaScript`
+
+**Backend & Database**  
+`APIs` `SQL` `Database Design`
+
+**Tools & Technologies**  
+`Git` `GitHub` `AWS` `OOP`
+
+**Currently Exploring**  
+`Cloud Computing` `Cybersecurity` `Clean Code Practices`
+
+# What I'm Working On
+
+- Developing personal projects to practice backend logic and database integration
+- Improving my skills in Java and object-oriented programming
+- Improving  my projects in my skills and programing C++
+- Building small applications and documenting the learning process
+- Exploring cloud services with AWS
+
+----------------------------------------------------------------------
+
+# Connect with Me
+
+- 💼 [LinkedIn] (https://www.linkedin.com/in/luiz-henrique-seabra-da-silva-)
+- 📧 Email:workshopatusdv@email.com
+
+---------------------------------------------------------------------
+⭐️ From Z3RO4l(https://github.com/Z3RO4l)
