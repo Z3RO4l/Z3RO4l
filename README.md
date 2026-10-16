@@ -34,7 +34,7 @@ I learn by building — studying concepts and immediately applying them in perso
 
 - Developing personal projects to practice backend logic and database integration
 - Improving my skills in Java and object-oriented programming
-- Improving  my projects in my skills and programing C++
+- Improving  my C/C++ projects and programming skills
 - Building small applications and documenting the learning process
 - Exploring cloud services with AWS
 
