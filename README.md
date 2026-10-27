@@ -19,13 +19,13 @@ I learn by building — studying concepts and immediately applying them in perso
 # Tech Stack
 
 **Languages** 
-`Java` `C++` `HTML` `JavaScript`
+`C` `C++` `HTML` `JavaScript`
 
 **Backend & Database**  
 `APIs` `SQL` `Database Design`
 
 **Tools & Technologies**  
-`Git` `GitHub` `AWS` `OOP`
+`Git` `GitHub` `AWS` 
 
 **Currently Exploring**  
 `Cloud Computing` `Cybersecurity` `Clean Code Practices`
