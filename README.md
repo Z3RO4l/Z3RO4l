@@ -3,7 +3,7 @@
 **Computer Science Student** | Passionate about building things with code  
 📍 Manaus, Brazil | 🔍 Open to internship opportunities
 
---------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
 # About Me
 
